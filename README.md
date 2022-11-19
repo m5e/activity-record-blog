@@ -1,0 +1,1 @@
+# activity-record-blog
